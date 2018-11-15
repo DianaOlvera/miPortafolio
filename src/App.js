@@ -1,7 +1,10 @@
 import React, { Component } from 'react';
 //import logo from './logo.svg';
 import './App.css';
-import Nav from './components/nav.js';
+import Navbar from './components/Nav/nav.js';
+import About from './components/aboutme/aboutme.js'
+import Projects from './components/projects/projects.js'
+
 
 class App extends Component {
   render() {
@@ -9,14 +12,10 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           {/* <img src={logo} className="App-logo" alt="logo" />   */}
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer">
-            Learn React
-          </a>
-          <Nav/>
+          
+          <Navbar/>
+          <About/>
+          <Projects/>
         </header>
       </div>
     );

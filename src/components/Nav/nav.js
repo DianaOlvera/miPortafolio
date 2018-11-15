@@ -1,13 +1,9 @@
 import React from "react";
-//import logo from "../../assets/logo.png";
 
-const Nav = () => (
-  <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top">
-    <div className="navbar-header pl-lg-5">
-      <a className="navbar-brand js-scroll-trigger" href="#page-top">
-        <span className="bold"> </span>
-      </a>
-    </div>
+
+const Navbar = () => (
+  <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" >
+    <h1>Gabriela Olvera</h1>
     <button
       className="navbar-toggler"
       type="button"
@@ -20,18 +16,14 @@ const Nav = () => (
     </button>
     <div className="collapse navbar-collapse navbar-right pr-5" id="navbarNavDropdown">
       <ul className="nav navbar-nav ml-auto">
+
         <li className="nav-item">
-          <a className="nav-link js-scroll-trigger" href="#">
-            Inicio
-          </a>
-        </li>
-        <li className="nav-item">
-          <a className="nav-link js-scroll-trigger" href="#">
+          <a className="nav-link js-scroll-trigger" href="#about">
             Sobre mí
           </a>
         </li>
         <li className="nav-item">
-          <a className="nav-link js-scroll-trigger" href="#">
+          <a className="nav-link js-scroll-trigger" href="#projects">
             Proyectos
           </a>
         </li>
@@ -50,4 +42,4 @@ const Nav = () => (
   </nav>
 );
 
-export default Nav;
+export default Navbar;

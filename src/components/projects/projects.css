@@ -1,0 +1,86 @@
+.projects {
+    height: auto;
+    margin-bottom: 60px;
+  }
+  
+  .projects h2 {
+    color: black;
+    text-align: center;
+  }
+  
+  .projects hr{
+    border-width: 0.3em;
+  }
+  
+  .projects .container .row {
+    -ms-box-orient: horizontal;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  
+  
+  .image {
+    width: 90%;
+    height: auto;
+    margin: 0 auto 1em auto;
+    border: 1px solid #d3d3d3;
+  }
+  
+  .project-info{
+    align-items: stretch;
+  }
+  
+  .project-title {
+    font-weight: bold;
+    font-size: 1.5em;
+    line-height: 1.2em;
+    color: black;
+    margin-bottom: 0.1em;
+  }
+  
+  .project-description {
+    white-space: pre-wrap;
+    padding: 0 2em;
+  }
+  
+ 
+  .link {
+    background-color: black;
+    color: #ffffff;
+    font-size: 1em;
+    padding: 12px 28px;
+    display: block;
+    margin-bottom: 1em;
+    border-radius: 5px;
+  }
+  
+  
+  
+  
+  @media only screen and (min-width: 768px) {
+    .link {
+      padding: 6px 10px;
+    }
+  }
+  
+  @media only screen and (min-width: 992px) {
+    .projects .container .card {
+      margin: 0 1em 2em 1em;
+    }
+  
+    .link {
+      font-size: 1em;
+      padding: 6px 14px;
+      display: block;
+      margin-bottom: 1em;
+      border-radius: 5px;
+    }
+  }
