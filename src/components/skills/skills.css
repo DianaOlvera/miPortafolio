@@ -1,0 +1,53 @@
+.hab {
+    width: 100%;
+    height: 100vh, auto;
+    margin-top: 2.3em;
+    text-align: center;
+  }
+
+  .titulo-hab{
+	color: black;
+    font-weight:500;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 2em;
+  }
+ 
+  .lin{
+    margin-top: 2.3em;
+  }
+
+  .titulo-card {
+    color:black;
+    font-weight:700;
+    font-size: 1.5em;
+    text-align: center;
+    margin-top: 1em;
+  }
+  
+  .tres {
+    text-align: center;
+    padding: 1em 0;
+    margin-bottom: 1em;
+    background-color: black;
+    border-radius: 10px;
+  }
+  
+  .card i {
+    font-size: 3em;
+    text-align: center;
+    margin-bottom: 0.5em;
+  
+  }
+  
+  .card ul {
+    color:black ;
+    list-style: none;
+    padding-left: 0;
+    margin-top: 1em;
+  }
+  
+  .row {
+    justify-content: center;
+    margin: 0;
+  }

@@ -1,9 +1,12 @@
 import React, { Component } from 'react';
 //import logo from './logo.svg';
 import './App.css';
+import Brand from './components/brand/brand.js'
 import Navbar from './components/Nav/nav.js';
 import About from './components/aboutme/aboutme.js'
 import Projects from './components/projects/projects.js'
+import Skills from './components/skills/skills.js'
+import Contact from './components/contacto/contacto.js'
 
 
 class App extends Component {
@@ -11,12 +14,13 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          {/* <img src={logo} className="App-logo" alt="logo" />   */}
-          
           <Navbar/>
+          <Brand/>
+        </header>
           <About/>
           <Projects/>
-        </header>
+          <Skills/>
+          <Contact/>
       </div>
     );
   }

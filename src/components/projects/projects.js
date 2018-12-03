@@ -2,6 +2,7 @@ import React from 'react';
 import './projects.css';
 import Registro from '../../assets/registro.PNG';
 import UX from '../../assets/uxcom.PNG';
+import Tic from '../../assets/tic.png'
 
 
 const Projects = () => {
@@ -33,13 +34,13 @@ const Projects = () => {
             </div>
           </div>
           <div className="col-md-5 col-lg-3 card">
-            {/* <img src={labdash} alt="portada proyecto labdash" className="image" width="600" height="400"/> */}
+            <img src={Tic} alt="portada proyecto tictac" className="image" width="600" height="400"/> 
             <div className="row">
-              <a className="link col-10 col-md-5" target="_blank" rel="noopener noreferrer" href="https://angiemonroe.github.io/Save-Here/login">Demo</a>
-              <a className="link col-10 col-md-5" target="_blank" rel="noopener noreferrer" href="">GitHub</a>
+              <a className="link col-10 col-md-5" target="_blank" rel="noopener noreferrer" href="https://expo.io/@dianaol/tictoe">Demo</a>
+              <a className="link col-10 col-md-5" target="_blank" rel="noopener noreferrer" href="https://github.com/DianaOlvera/TicTacToe">GitHub</a>
             </div>
             <div className="project-info">
-              <p className="project-title">Save-Here</p>
+              <p className="project-title">TicTacToe</p>
             </div>
           </div>
         </div>
