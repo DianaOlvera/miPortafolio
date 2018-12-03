@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/miPortafolio/static/media/Roboto-Regular.30799efa.eot"
   },
   {
-    "revision": "d28facc80c7ab9768272",
-    "url": "/miPortafolio/static/css/main.70bfa70b.chunk.css"
+    "revision": "42d7295a21129cad8c25",
+    "url": "/miPortafolio/static/css/main.10d7793e.chunk.css"
   },
   {
     "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
@@ -44,12 +44,12 @@ self.__precacheManifest = [
     "url": "/miPortafolio/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "/miPortafolio/static/media/fontawesome-webfont.b06871f2.ttf"
-  },
-  {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/miPortafolio/static/media/fontawesome-webfont.674f50d2.eot"
+  },
+  {
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/miPortafolio/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
     "revision": "912ec66d7572ff821749319396470bde",
@@ -72,8 +72,8 @@ self.__precacheManifest = [
     "url": "/miPortafolio/static/media/Roboto-Light.a990f611.eot"
   },
   {
-    "revision": "d28facc80c7ab9768272",
-    "url": "/miPortafolio/static/js/main.d28facc8.chunk.js"
+    "revision": "42d7295a21129cad8c25",
+    "url": "/miPortafolio/static/js/main.42d7295a.chunk.js"
   },
   {
     "revision": "4d9f3f9e5195e7b074bb63ba4ce42208",
@@ -128,12 +128,12 @@ self.__precacheManifest = [
     "url": "/miPortafolio/static/media/Roboto-Thin.94998475.ttf"
   },
   {
-    "revision": "46e48ce0628835f68a7369d0254e4283",
-    "url": "/miPortafolio/static/media/Roboto-Light.46e48ce0.ttf"
-  },
-  {
     "revision": "df7b648ce5356ea1ebce435b3459fd60",
     "url": "/miPortafolio/static/media/Roboto-Regular.df7b648c.ttf"
+  },
+  {
+    "revision": "46e48ce0628835f68a7369d0254e4283",
+    "url": "/miPortafolio/static/media/Roboto-Light.46e48ce0.ttf"
   },
   {
     "revision": "894a2ede85a483bf9bedefd4db45cdb9",
@@ -144,7 +144,7 @@ self.__precacheManifest = [
     "url": "/miPortafolio/static/css/1.7f60b54b.chunk.css"
   },
   {
-    "revision": "6ffe91ce1dd2a14374133fc381eec5d9",
+    "revision": "b57ebcec5e396f75ddd8593c88e8501b",
     "url": "/miPortafolio/index.html"
   }
 ];

@@ -1,7 +1,7 @@
 {
-  "main.css": "/miPortafolio/static/css/main.70bfa70b.chunk.css",
-  "main.js": "/miPortafolio/static/js/main.d28facc8.chunk.js",
-  "main.js.map": "/miPortafolio/static/js/main.d28facc8.chunk.js.map",
+  "main.css": "/miPortafolio/static/css/main.10d7793e.chunk.css",
+  "main.js": "/miPortafolio/static/js/main.42d7295a.chunk.js",
+  "main.js.map": "/miPortafolio/static/js/main.42d7295a.chunk.js.map",
   "static/css/1.7f60b54b.chunk.css": "/miPortafolio/static/css/1.7f60b54b.chunk.css",
   "static/js/1.b6d73e35.chunk.js": "/miPortafolio/static/js/1.b6d73e35.chunk.js",
   "static/js/1.b6d73e35.chunk.js.map": "/miPortafolio/static/js/1.b6d73e35.chunk.js.map",
@@ -14,8 +14,8 @@
   "static/media/font-awesome.min.css": "/miPortafolio/static/media/fontawesome-webfont.912ec66d.svg",
   "static/media/registro.PNG": "/miPortafolio/static/media/registro.b9e3ab36.PNG",
   "static/css/1.7f60b54b.chunk.css.map": "/miPortafolio/static/css/1.7f60b54b.chunk.css.map",
-  "static/css/main.70bfa70b.chunk.css.map": "/miPortafolio/static/css/main.70bfa70b.chunk.css.map",
+  "static/css/main.10d7793e.chunk.css.map": "/miPortafolio/static/css/main.10d7793e.chunk.css.map",
   "index.html": "/miPortafolio/index.html",
-  "precache-manifest.b6cc3057814841870981b49b7ac848e3.js": "/miPortafolio/precache-manifest.b6cc3057814841870981b49b7ac848e3.js",
+  "precache-manifest.b3c45a430a18b3fa40bc05b80efe9e10.js": "/miPortafolio/precache-manifest.b3c45a430a18b3fa40bc05b80efe9e10.js",
   "service-worker.js": "/miPortafolio/service-worker.js"
 }
